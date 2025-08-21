@@ -11,3 +11,4 @@ kubectl get crd kymas.operator.kyma-project.io -o yaml
 ```
 
 For more information on the fields and how to use them, see [Kyma](../contributor/resources/01-kyma.md).
+
